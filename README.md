@@ -1,6 +1,6 @@
 ### Key Links 👋
 
-<a href="http://www.google.com">Test link</a>
+<a href="http://secureconnect.viha.ca/depts/ctu/SitePages/Home.aspx">CTU Sharepoint</a>
 
 <!--
 **joannebarnes/joannebarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
