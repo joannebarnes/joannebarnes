@@ -1,6 +1,9 @@
-### Key Links 🖥️
+## Key Links 🖥️
 
+## Departmental Resources
 * <a href="http://secureconnect.viha.ca/depts/ctu/SitePages/Home.aspx">CTU Sharepoint</a>
+
+## External Logins
 * <a href="https://www.evernote.com/Login.action">Evernote Login</a>
 
 <!--
