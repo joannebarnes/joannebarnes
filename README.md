@@ -1,6 +1,7 @@
-### Key Links 👋
+### Key Links 🖥️
 
-<a href="http://secureconnect.viha.ca/depts/ctu/SitePages/Home.aspx">CTU Sharepoint</a>
+* <a href="http://secureconnect.viha.ca/depts/ctu/SitePages/Home.aspx">CTU Sharepoint</a>
+* <a href="https://www.evernote.com/Login.action">Evernote Login</a>
 
 <!--
 **joannebarnes/joannebarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
