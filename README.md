@@ -6,6 +6,9 @@
 ## External Logins
 * <a href="https://www.evernote.com/Login.action">Evernote Login</a>
 
+## Templates
+* <a href="http://www.medfools.com/downloads/megs-history-physical.pdf">MedFools History and Physical</a>
+
 <!--
 **joannebarnes/joannebarnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
